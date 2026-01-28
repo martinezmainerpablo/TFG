@@ -4,7 +4,8 @@
 
 ## 📋 Descripción
 
-Sistema de gestión de almacén desarrollado como Trabajo de Fin de Grado. Esta aplicación web permite administrar inventarios, componentes, proveedores, referencias y sugerencias de manera eficiente y centralizada.
+Este proyecto constituye un Trabajo de Fin de Grado Superior desarrollado por Pablo Martínez Mainer. Se trata de una aplicación web completa diseñada para automatizar y optimizar la gestión integral de almacenes, inventarios y cadena de suministro en pequeñas y medianas empresas.
+El sistema nace de la necesidad real de las empresas de modernizar sus procesos de gestión de stock, históricamente llevados en hojas de cálculo o sistemas legacy poco eficientes. Esta solución proporciona una interfaz web intuitiva y accesible desde cualquier dispositivo con conexión a internet, eliminando la necesidad de instalaciones complejas.
 
 ## 🚀 Características
 
