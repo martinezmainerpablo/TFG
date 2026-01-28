@@ -71,8 +71,5 @@ Este proyecto fue desarrollado como Trabajo de Fin de Grado Superior.
 
 ## ✒️ Autor
 
-**Pablo Martínez Mainero**
+**Pablo Martínez Mainer**
 
----
-
-⭐ Si este proyecto te ha sido útil, considera darle una estrella en GitHub
