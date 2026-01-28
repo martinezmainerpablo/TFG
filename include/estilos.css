@@ -1,0 +1,17 @@
+body{
+    padding-top: 100px;
+    padding-bottom: 40px;
+    background-color: rgb(220, 255, 220);
+}
+
+.boton-sug{
+    position: fixed;
+    right: 30px; 
+    bottom: 30px; 
+    width: 65px; 
+    height: 65px; 
+    background-color: #36d700; 
+    border-radius: 50%; 
+    text-align: center; 
+    line-height: 55px; 
+}
